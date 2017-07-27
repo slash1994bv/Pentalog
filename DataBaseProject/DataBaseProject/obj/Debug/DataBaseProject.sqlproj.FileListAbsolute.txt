@@ -1,0 +1,5 @@
+C:\Users\CBHir\OneDrive\Documents\Visual Studio 2017\Projects\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.dacpac
+C:\Users\CBHir\OneDrive\Documents\Visual Studio 2017\Projects\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.dll
+C:\Users\CBHir\OneDrive\Documents\Visual Studio 2017\Projects\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\Users\CBHir\OneDrive\Documents\Visual Studio 2017\Projects\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.dll
+C:\Users\CBHir\OneDrive\Documents\Visual Studio 2017\Projects\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.pdb
